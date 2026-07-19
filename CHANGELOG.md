@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/CoCreate-app/CoCreate-cockroachdb/compare/v1.1.0...v1.1.1) (2026-07-19)
+
+
+### Bug Fixes
+
+* set default branch to main ([a68339b](https://github.com/CoCreate-app/CoCreate-cockroachdb/commit/a68339b69eed77057ec28dc1cc1dcb6e12b11faa))
+
 # [1.1.0](https://github.com/CoCreate-app/CoCreate-cockroachdb/compare/v1.0.0...v1.1.0) (2026-07-19)
 
 
