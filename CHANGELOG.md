@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/CoCreate-app/CoCreate-cockroachdb/compare/v1.0.0...v1.1.0) (2026-07-19)
+
+
+### Features
+
+* Update README.md to reflect CockroachDB integration and enhance documentation ([badf7a6](https://github.com/CoCreate-app/CoCreate-cockroachdb/commit/badf7a607a2e3ea6b222d8ad218e50684d82b5ca))
+
 # 1.0.0 (2026-07-18)
 
 
