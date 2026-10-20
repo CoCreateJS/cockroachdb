@@ -46,8 +46,7 @@
   "main": "./src/index.js",
   "exports": {
     ".": "./src/index.js",
-    "./dist": "./dist/cockroachdb.js",
-    "./installer": "./installer/cockroachdb.installer.js"
+    "./dist": "./dist/cockroachdb.js"
   },
   "devDependencies": {
     "@cocreate/webpack": "^1.9.0"
