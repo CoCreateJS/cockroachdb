@@ -35,9 +35,9 @@
   "author": "CoCreate LLC",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/CoCreate-app/CoCreate-cockroachdb/issues"
+    "url": "https://github.com/CoCreateJS/CoCreate-cockroachdb/issues"
   },
-  "homepage": "https://cocreate.app/docs/cockroachdb",
+  "homepage": "https://CoCreateJS.com/docs/cockroachdb",
   "funding": {
     "type": "GitHub Sponsors ❤",
     "url": "https://github.com/sponsors/CoCreate-app"
