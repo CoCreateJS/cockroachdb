@@ -30,17 +30,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cocreatejs/CoCreate-cockroachdb.git"
+    "url": "git+https://github.com/CoCreateJS/cockroachdb.git"
   },
   "author": "CoCreate LLC",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/CoCreateJS/CoCreate-cockroachdb/issues"
+    "url": "https://github.com/CoCreateJS/cockroachdb/issues"
   },
   "homepage": "https://CoCreateJS.com/docs/cockroachdb",
   "funding": {
     "type": "GitHub Sponsors ❤",
-    "url": "https://github.com/sponsors/CoCreate-app"
+    "url": "https://github.com/sponsors/CoCreateJS"
   },
   "type": "module",
   "main": "./src/index.js",
