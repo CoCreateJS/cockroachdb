@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/CoCreateJS/cockroachdb/compare/v2.0.0...v2.0.1) (2026-11-05)
+
+
+### Bug Fixes
+
+* upgrade CoCreate dependencies to v2 ([f14a359](https://github.com/CoCreateJS/cockroachdb/commit/f14a35972b6f329998ce7ea5d5f03d2fde0c8707))
+
 # [2.0.0](https://github.com/CoCreateJS/cockroachdb/compare/v1.1.1...v2.0.0) (2026-11-02)
 
 
